@@ -27,3 +27,6 @@ nav ul li {
   text-transform: uppercase;
   margin: 50px 40px;
 }
+nav {
+  color: #7a6564;
+}
