@@ -81,3 +81,17 @@ main img {
   font-size: 2em;
   margin: 0;
 }
+/* menu icon section */
+.menu-icon {
+  background-color: #c8c10e;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.product-icon,
+.ourstory-icon,
+.flavors-icon,
+.location-icon {
+  text-align: center;
+}
