@@ -5,6 +5,16 @@ body {
 }
 
 /* Header section */
+
 header {
   background-color: #edebec;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/** logo  **/
+header img {
+  width: 138px;
+  height: 36px;
+  margin-left: 30px;
 }
