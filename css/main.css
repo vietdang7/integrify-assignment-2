@@ -60,3 +60,9 @@ nav {
   right: 100px;
   bottom: 30px;
 }
+
+/* Main section */
+main {
+  position: relative;
+  background-color: #edebec;
+}
