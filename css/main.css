@@ -31,6 +31,10 @@ nav,
 .main-text {
   color: #7a6564;
 }
+nav a {
+  text-decoration: none;
+  color: #7a6564;
+}
 
 /* Jumbotron section */
 .jumbotron {
