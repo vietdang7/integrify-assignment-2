@@ -27,7 +27,8 @@ nav ul li {
   text-transform: uppercase;
   margin: 50px 40px;
 }
-nav {
+nav,
+.main-text {
   color: #7a6564;
 }
 
@@ -64,5 +65,19 @@ nav {
 /* Main section */
 main {
   position: relative;
-  background-color: #edebec;
+  background-color: #e9e7e8;
+  height: 260px;
+}
+.main-text {
+  padding: 20px 400px 20px 40px;
+}
+main img {
+  position: absolute;
+  right: 10px;
+  bottom: 0;
+}
+.main-text h3 {
+  color: #e32a63;
+  font-size: 2em;
+  margin: 0;
 }
