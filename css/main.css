@@ -45,7 +45,7 @@ nav,
 }
 .ad-text {
   z-index: 2;
-  right: 200px;
+  right: 400px;
   bottom: 70px;
   color: white;
 }
@@ -54,11 +54,12 @@ nav,
   width: 10px;
   font-size: 1.2em;
   font-weight: bold;
+  text-align: center;
 }
 
 .jumbotron img {
   z-index: 1;
-  right: 100px;
+  right: 300px;
   bottom: 30px;
 }
 
@@ -94,5 +95,20 @@ main img {
 .ourstory-icon,
 .flavors-icon,
 .location-icon {
+  text-align: center;
+}
+/* Footer section */
+footer {
+  background-color: #cb3362;
+  color: white;
+  padding: 70px 40px;
+}
+.social-icons {
+  text-align: center;
+}
+.social-icons img {
+  margin-right: 10px;
+}
+.copyright-text {
   text-align: center;
 }
