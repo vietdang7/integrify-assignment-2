@@ -1,7 +1,7 @@
 # Integrify Second Assignment
 
 This is my second assignment of Integrify program.
-![Final Result](https://raw.githubusercontent.com/vietdang7/integrify-assignment-1/master/img/result.png)
+![Final Result](https://github.com/vietdang7/integrify-assignment-2/blob/master/img/2nd-assignment.png)
 
 
 ## Purpose of this assignment
