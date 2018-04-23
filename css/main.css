@@ -30,3 +30,9 @@ nav ul li {
 nav {
   color: #7a6564;
 }
+
+/* Jumbotron section */
+.jumbotron {
+  background: url("../img/bg.jpg") no-repeat center;
+  height: 660px;
+}
