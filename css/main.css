@@ -33,6 +33,30 @@ nav {
 
 /* Jumbotron section */
 .jumbotron {
+  position: relative;
   background: url("../img/bg.jpg") no-repeat center;
+  background-size: cover;
   height: 660px;
+}
+.jumbotron img,
+.jumbotron .ad-text {
+  position: absolute;
+}
+.ad-text {
+  z-index: 2;
+  right: 200px;
+  bottom: 70px;
+  color: white;
+}
+
+.ad-text p {
+  width: 10px;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.jumbotron img {
+  z-index: 1;
+  right: 100px;
+  bottom: 30px;
 }
